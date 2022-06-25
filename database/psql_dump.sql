@@ -3,3 +3,4 @@ CREATE table list (
     item char(140),
     done bool
 );
+
